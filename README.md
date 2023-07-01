@@ -13,7 +13,7 @@ The application will display the cooking time, optimal temperature, crackling te
 
 ## Demo
 
-You can try out the calculator [here]([https://example.com](https://cyberwarfare.site/PorkCalculator.php)).
+You can try out the calculator [here]([https://example.com](http://cyberwarfare.site/PorkCalculator.php)).
 
 ## Technologies Used
 
