@@ -13,7 +13,7 @@ The application will display the cooking time, optimal temperature, crackling te
 
 ## Demo
 
-You can try out the calculator [here](https://example.com).
+You can try out the calculator [here]([https://example.com](https://cyberwarfare.site/PorkCalculator.php)).
 
 ## Technologies Used
 
@@ -27,3 +27,16 @@ To run this project locally, you need to have a PHP server installed. Follow the
 
 1. Clone the repository:
 
+git clone https://github.com/your-username/your-repository.git
+
+
+2. Start a PHP server in the project directory:
+
+php -S localhost:8000
+
+
+3. Open your web browser and visit [http://localhost:8000](http://localhost:8000).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
