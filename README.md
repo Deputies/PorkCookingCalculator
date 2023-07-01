@@ -27,7 +27,7 @@ To run this project locally, you need to have a PHP server installed. Follow the
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Deputies/PorkCookingCalculator.git
 
 
 2. Start a PHP server in the project directory:
